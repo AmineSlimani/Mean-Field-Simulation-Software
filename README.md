@@ -25,7 +25,7 @@
 
 To run the software, follow these steps:
 
-1. Download the latest version from the [releases](https://github.com/AmineSlimani/Mean-Field-Simulation-Software) page.
+1. Download the latest version from the [releases](https://drive.google.com/drive/folders/1PmzYghVZDQblXFBFHjv9oBVs01MAJrR-?usp=drive_link) page.
 2. Downloaded .exe file.
 3. Double-click the `.exe` file to launch the software.
 
